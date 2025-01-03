@@ -13,11 +13,7 @@ Personality trait detection is an emerging area in psychological profiling, huma
 - A novel dataset of Bangla speech recordings was compiled, covering diverse demographics and personality traits.
 
 
-## Repository Contents
-- Preprocessed dataset of Bangla speech recordings (if permitted for public release).
-- Implementation of VGG19 and ResNet-50 architectures for voice-based personality detection.
-- Comparative evaluation scripts for text-based and voice-based methods.
-- Detailed results and analysis of the experiments.
+
 
 ## Applications
 - **Psychological profiling**
